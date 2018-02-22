@@ -1,0 +1,5 @@
+print('Meu primeiro programa')
+Num1 = int(input('Digite um numero: '))
+Num2 = int(input('Digite outro numero: '))
+print('O resultado de',Num1,'+',Num2,'é:',Num1+Num2)
+print('Fim do programa')
